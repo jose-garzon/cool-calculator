@@ -1,1 +1,4 @@
-class Calculator {}
+class Calculator {
+  sum = () => {}
+  subtract = () => {}
+}
